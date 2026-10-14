@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Software engineering student · CRM development · Databricks · B2B lead generation · Data entry</strong>
+  <strong> · CRM development · Databricks · B2B lead generation · Data entry</strong>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm **Ana Maria do Céu Gomes**, a Software Engineering student at UBM in Brazil. I combine programming, CRM configuration and structured data work to make research and business operations easier to review and maintain.
+I'm **Ana Maria do Céu Gomes**, I combine programming, CRM configuration and structured data work to make research and business operations easier to review and maintain.
 
 My work includes Salesforce with Apex and Visualforce, Python automation, Databricks experience, public B2B account research, data entry and Excel workbooks and implementation cases for Zoho CRM and HubSpot. I also bring experience in design and audiovisual production; this GitHub profile focuses on my technical and corporate projects.
 
